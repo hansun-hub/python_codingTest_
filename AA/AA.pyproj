@@ -25,6 +25,12 @@
     <Compile Include="K번째 수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="k번째 큰수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="대표값.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="input.txt" />
