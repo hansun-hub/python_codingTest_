@@ -31,6 +31,12 @@
     <Compile Include="대표값.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="자릿수의 합.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="정다면체.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="input.txt" />
