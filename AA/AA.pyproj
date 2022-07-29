@@ -31,10 +31,22 @@
     <Compile Include="대표값.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="뒤집은 소수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="소수%28에라토스테네스의 체%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="자릿수의 합.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="점수계산.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="정다면체.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="주사위 게임.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
