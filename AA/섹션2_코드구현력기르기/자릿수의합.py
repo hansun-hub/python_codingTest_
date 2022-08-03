@@ -18,4 +18,3 @@ for x in a:
         max=tot
         res=x
 print(res)
-

@@ -9,4 +9,3 @@ for x in a:
     else:
         cnt+=0
 print(sum)
-

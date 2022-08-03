@@ -22,45 +22,48 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="AA.py" />
-    <Compile Include="1\K번째 수.py">
+    <Compile Include="섹션2_코드구현력기르기\K번째 수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\k번째 큰수.py">
+    <Compile Include="섹션2_코드구현력기르기\k번째큰수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\대표값.py">
+    <Compile Include="섹션2_코드구현력기르기\대표값.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\뒤집은 소수.py">
+    <Compile Include="섹션2_코드구현력기르기\뒤집은소수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\소수%28에라토스테네스의 체%29.py">
+    <Compile Include="섹션2_코드구현력기르기\소수%28에라토스테네스의 체%29.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\자릿수의 합.py">
+    <Compile Include="섹션2_코드구현력기르기\자릿수의합.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\점수계산.py">
+    <Compile Include="섹션2_코드구현력기르기\점수계싼.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\정다면체.py">
+    <Compile Include="섹션2_코드구현력기르기\정다면체.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1\주사위 게임.py">
+    <Compile Include="섹션2_코드구현력기르기\주사위게임.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="숫자만추출.py">
+    <Compile Include="섹션3_string_1차원_2차원\숫자만추출.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="회문문자열검사.py">
+    <Compile Include="섹션3_string_1차원_2차원\회문문자열검사.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="input.txt" />
+    <Content Include="섹션2_코드구현력기르기\input.txt" />
+    <Content Include="섹션3_string_1차원_2차원\input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="1\" />
+    <Folder Include="섹션3_string_1차원_2차원\" />
+    <Folder Include="섹션2_코드구현력기르기\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
