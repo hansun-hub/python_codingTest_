@@ -52,6 +52,9 @@
     <Compile Include="섹션3_string_1차원_2차원\숫자만추출.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션3_string_1차원_2차원\카드역배치.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션3_string_1차원_2차원\회문문자열검사.py">
       <SubType>Code</SubType>
     </Compile>
