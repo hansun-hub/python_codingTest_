@@ -49,6 +49,9 @@
     <Compile Include="섹션2_코드구현력기르기\주사위게임.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션3_string_1차원_2차원\격자판최대합.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션3_string_1차원_2차원\두리스트합치기.py">
       <SubType>Code</SubType>
     </Compile>
