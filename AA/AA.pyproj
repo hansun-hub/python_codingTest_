@@ -55,6 +55,9 @@
     <Compile Include="섹션3_string_1차원_2차원\두리스트합치기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션3_string_1차원_2차원\사과나무%28다이아몬드%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션3_string_1차원_2차원\수의합.py">
       <SubType>Code</SubType>
     </Compile>
