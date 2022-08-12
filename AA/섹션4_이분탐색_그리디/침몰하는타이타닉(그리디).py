@@ -1,3 +1,5 @@
+import sys
+sys.stdin=open("input.txt","rt")
 n,limit = map(int, input().split())
 p=list(map(int,input().split()))
 p.sort()
