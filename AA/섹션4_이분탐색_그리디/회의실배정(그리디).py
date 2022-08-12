@@ -1,3 +1,6 @@
+import sys
+sys.stdin=open("input.txt","rt")
+
 n=int(input())
 meeting=[]
 for i in range(n):

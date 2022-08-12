@@ -1,4 +1,6 @@
 import sys
+sys.stdin=open("input.txt","rt")
+
 n=int(input())
 body = []
 for i in range(n):

@@ -97,6 +97,9 @@
     <Compile Include="섹션4_이분탐색_그리디\이분검색.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션4_이분탐색_그리디\창고정리%28그리디%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션4_이분탐색_그리디\회의실배정%28그리디%29.py">
       <SubType>Code</SubType>
     </Compile>
