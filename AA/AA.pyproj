@@ -94,6 +94,9 @@
     <Compile Include="섹션4_이분탐색_그리디\씨름선수%28그리디%29.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션4_이분탐색_그리디\역수열%28그리디%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션4_이분탐색_그리디\이분검색.py">
       <SubType>Code</SubType>
     </Compile>
@@ -109,6 +112,12 @@
     <Compile Include="섹션4_이분탐색_그리디\회의실배정%28그리디%29.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\가장큰수%28스택%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\쇠막대기%28스택%29.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="input.txt" />
@@ -116,6 +125,7 @@
     <Content Include="섹션3_string_1차원_2차원\input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="섹션5_자료구조%28스택_큐_해시_힙%29\" />
     <Folder Include="섹션4_이분탐색_그리디\" />
     <Folder Include="섹션3_string_1차원_2차원\" />
     <Folder Include="섹션2_코드구현력기르기\" />
