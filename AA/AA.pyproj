@@ -115,7 +115,13 @@
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\가장큰수%28스택%29.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\공주구하기%28큐%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\쇠막대기%28스택%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\후위식연산.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\후위표기식.py">
