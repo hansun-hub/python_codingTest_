@@ -130,6 +130,9 @@
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\아나그램%28딕셔너리%29.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\아나그램%28리스트해쉬%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\응급실.py">
       <SubType>Code</SubType>
     </Compile>
