@@ -121,7 +121,13 @@
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\공주구하기%28큐%29.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\교육과정설계.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\쇠막대기%28스택%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\아나그램%28딕셔너리%29.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\응급실.py">
