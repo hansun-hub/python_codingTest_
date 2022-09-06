@@ -1,13 +1,12 @@
 h,m = map(int,input().split())
+oven = int(input())
 
-if m<44:
-    tmp=45-m
-    m=60-tmp
-    if(h==0):
-        h=23
-    else:
-        h=h-1
+if m+oven<60:
+    print(h,m+oven)
 else:
-    m=-45
+    if h==23:
+        print(0+((m+oven)/60)-1,(m+oven)%60)
 
-print(h,m)
+    else:
+        print(((m+oven)/60)-1,(m+oven)%60)
+        h=23
