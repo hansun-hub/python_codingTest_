@@ -136,10 +136,17 @@
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\응급실.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\최소힙.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\후위식연산.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="섹션5_자료구조%28스택_큐_해시_힙%29\후위표기식.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="섹션6_완전탐색\AA.py" />
+    <Compile Include="섹션6_완전탐색\재귀함수를 이용한 이진수출력.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -150,6 +157,7 @@
     <Content Include="섹션5_자료구조%28스택_큐_해시_힙%29\input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="섹션6_완전탐색\" />
     <Folder Include="삼성SW역량\" />
     <Folder Include="섹션5_자료구조%28스택_큐_해시_힙%29\" />
     <Folder Include="섹션4_이분탐색_그리디\" />
