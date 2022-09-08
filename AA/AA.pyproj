@@ -146,6 +146,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="섹션6_완전탐색\AA.py" />
+    <Compile Include="섹션6_완전탐색\부분집합구하기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="섹션6_완전탐색\이진트리순회_깊이우선탐색.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션6_완전탐색\재귀함수를 이용한 이진수출력.py">
       <SubType>Code</SubType>
     </Compile>
