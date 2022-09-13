@@ -155,6 +155,9 @@
     <Compile Include="섹션6_완전탐색\재귀함수를 이용한 이진수출력.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="섹션6_완전탐색\합이 같은 부분집합%28DFS%29.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="input.txt" />
