@@ -146,6 +146,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="섹션6_완전탐색\AA.py" />
+    <Compile Include="섹션6_완전탐색\바둑이 승차_DFS.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션6_완전탐색\부분집합구하기.py">
       <SubType>Code</SubType>
     </Compile>
@@ -153,6 +156,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="섹션6_완전탐색\재귀함수를 이용한 이진수출력.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="섹션6_완전탐색\전역변수와 지역변수.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="섹션6_완전탐색\합이 같은 부분집합%28DFS%29.py">
