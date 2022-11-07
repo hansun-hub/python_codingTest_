@@ -28,6 +28,9 @@
     <Compile Include="programers\숫자문자열과 영단어.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="programers\왼주하지못한선수.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="섹션2_코드구현력기르기\K번째 수.py">
       <SubType>Code</SubType>
     </Compile>
