@@ -31,6 +31,9 @@
     <Compile Include="programers\왼주하지못한선수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="programers\전화번호목록.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="programers\폰켓몬.py">
       <SubType>Code</SubType>
     </Compile>
