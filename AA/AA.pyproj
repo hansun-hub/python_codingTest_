@@ -34,6 +34,9 @@
     <Compile Include="programers\전화번호목록.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="programers\캐시.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="programers\폰켓몬.py">
       <SubType>Code</SubType>
     </Compile>
