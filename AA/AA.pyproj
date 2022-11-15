@@ -31,6 +31,9 @@
     <Compile Include="programers\숫자문자열과 영단어.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="programers\올바른괄호.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="programers\왼주하지못한선수.py">
       <SubType>Code</SubType>
     </Compile>
