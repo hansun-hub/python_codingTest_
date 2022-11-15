@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="AA.py" />
+    <Compile Include="programers\같은숫자는싫어.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="programers\비밀지도.py">
       <SubType>Code</SubType>
     </Compile>
